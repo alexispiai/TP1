@@ -1,3 +1,20 @@
-h1 {
-  color: #bc0000;
+header{
+  background-color: #032A49;
 }
+nav{
+  background-color: #616E9A;
+  color: white;
+  font-family: roboto;
+}
+
+h1 {
+  color: #CB9821;
+  font-size: 150px;
+  font-family:Anton;
+}
+h2 {
+  color: #032A49;
+  font-size: 50px;
+  font-family: Oswald;
+}
+
