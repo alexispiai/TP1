@@ -1,5 +1,8 @@
+html{
+  background-color: #587099;
+}
 header{
-  background-color: #032A49;
+  background-color: #101116;
 }
 nav{
   background-color: #616E9A;
@@ -8,7 +11,7 @@ nav{
 }
 
 h1 {
-  color: #CB9821;
+  color: #ECEBE9;
   font-size: 150px;
   font-family:Anton;
 }
@@ -18,3 +21,6 @@ h2 {
   font-family: Oswald;
 }
 
+img{
+  width: 300px;
+}
