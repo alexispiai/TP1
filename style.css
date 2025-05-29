@@ -1,24 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
 html{
   background-color: #587099;
 }
+
 header{
   background-color: #101116;
+  min-height:100vh;
+  width:100%;
+  position: flex;
+  top: 50%;
+  width: 100%;
+  text-align: center;
 }
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 4vw;
+  color: #ECEBE9;
+
+}
+
 nav{
-  background-color: #616E9A;
   color: white;
   font-family: roboto;
 }
 
-h1 {
-  color: #ECEBE9;
-  font-size: 150px;
-  font-family:Anton;
-}
 h2 {
   color: #032A49;
   font-size: 50px;
   font-family: Oswald;
+
 }
 
 img{
